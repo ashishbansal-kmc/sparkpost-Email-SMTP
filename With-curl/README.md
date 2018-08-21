@@ -11,7 +11,8 @@ Sample headers for CC.
 
 Format to set Emails:
 
-'recipients'=>
+
+  'recipients'=>
 
     [
         [
