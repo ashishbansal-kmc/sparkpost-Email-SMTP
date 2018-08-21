@@ -16,34 +16,40 @@ $sample_address=[
                 'email' => 'to1@example.com',
             ],
         ],
+
         [
             'address' => [
                 'name' => 'name',
                 'email' => 'to2@example.com',
             ],
         ],
+
         [
             'address' => [
                 'name' => 'name',
                 'email' => 'cc1@example.com',
             ],
         ],
+
         [
             'address' => [
                 'name' => 'name',
                 'email' => 'cc2@example.com',
             ],
         ],
+
         [
             'address' => [
                 'name' => 'name',
                 'email' => 'bcc1@example.com',
             ],
         ],
+
         [
             'address' => [
                 'name' => 'name',
                 'email' => 'bcc2@example.com',
             ],
         ],
+
     ];
