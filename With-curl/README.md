@@ -11,7 +11,9 @@ Sample headers for CC.
 
 Format to set Emails:
 
-$sample_address=[
+'recipients'=>
+
+    [
         [
             'address' => [
                 'name' => 'name',
